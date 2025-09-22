@@ -5,8 +5,20 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: '고기에 솜씨를 더하다 창원',
-  description: '창원 최고의 고기 요리 전문점',
+  title: '미나리산장 본점',
+  description: '고기에 솜씨를 더하다 - 창원 최고의 고기 요리 전문점',
+  openGraph: {
+    title: '미나리산장 본점',
+    description: '고기에 솜씨를 더하다 - 창원 최고의 고기 요리 전문점',
+    siteName: '미나리산장 본점',
+    locale: 'ko_KR',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: '미나리산장 본점',
+    description: '고기에 솜씨를 더하다 - 창원 최고의 고기 요리 전문점',
+  },
 }
 
 export default function RootLayout({
