@@ -18,19 +18,19 @@ export default function Home() {
 
         <div className="hero-content">
           <div className="hero-badge">
-            <span>🥩 프리미엄 한우 전문점</span>
+            <span>🚀 온라인 마케팅 전문 기업</span>
           </div>
 
           <h1 className="hero-title">
-            미나리산장 본점
+            체계적인 마케팅 설계로
             <br />
-            <span className="gradient-text">고기에 솜씨를 더하다</span>
+            <span className="gradient-text">실제 매출이 증가</span>하는
             <br />
-            창원 최고의 고기 전문점
+            마케팅을 실행합니다
           </h1>
 
           <p className="hero-description">
-            프리미엄 한우와 특별한 손맛을 경험하세요
+            위즈더플래닝과 함께 시작하세요
           </p>
         </div>
 
@@ -516,7 +516,7 @@ export default function Home() {
             <div className="pricing-card featured">
               <div className="pricing-header">
                 <h3>온라인 마케팅 통합 패키지</h3>
-                <p className="pricing-desc">고기에 솜씨를 더하다 창원점 맞춤형</p>
+                <p className="pricing-desc">미나리산장 본점 맞춤형</p>
               </div>
 
               <div className="pricing-price">

@@ -6,10 +6,10 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: '미나리산장 본점',
-  description: '고기에 솜씨를 더하다 - 창원 최고의 고기 요리 전문점',
+  description: '창원 최고의 프리미엄 한우 전문점',
   openGraph: {
     title: '미나리산장 본점',
-    description: '고기에 솜씨를 더하다 - 창원 최고의 고기 요리 전문점',
+    description: '창원 최고의 프리미엄 한우 전문점',
     siteName: '미나리산장 본점',
     locale: 'ko_KR',
     type: 'website',
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: '미나리산장 본점',
-    description: '고기에 솜씨를 더하다 - 창원 최고의 고기 요리 전문점',
+    description: '창원 최고의 프리미엄 한우 전문점',
   },
 }
 
