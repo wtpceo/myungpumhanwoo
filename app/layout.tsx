@@ -5,14 +5,14 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: '미나리산장 본점',
-  description: '미나리산장 본점',
-  metadataBase: new URL('https://minarisanjang.vercel.app'),
+  title: '명품한우 동천점',
+  description: '명품한우 동천점',
+  metadataBase: new URL('https://myungpumhanwoo.vercel.app'),
   openGraph: {
-    title: '미나리산장 본점',
-    description: '미나리산장 본점',
-    siteName: '미나리산장 본점',
-    url: 'https://minarisanjang.vercel.app',
+    title: '명품한우 동천점',
+    description: '명품한우 동천점',
+    siteName: '명품한우 동천점',
+    url: 'https://myungpumhanwoo.vercel.app',
     locale: 'ko_KR',
     type: 'website',
     images: [
@@ -20,19 +20,19 @@ export const metadata: Metadata = {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: '미나리산장 본점',
+        alt: '명품한우 동천점',
       }
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: '미나리산장 본점',
-    description: '미나리산장 본점',
-    site: '@minarisanjang',
-    creator: '@minarisanjang',
+    title: '명품한우 동천점',
+    description: '명품한우 동천점',
+    site: '@myungpumhanwoo',
+    creator: '@myungpumhanwoo',
   },
   alternates: {
-    canonical: 'https://minarisanjang.vercel.app',
+    canonical: 'https://myungpumhanwoo.vercel.app',
   },
 }
 
