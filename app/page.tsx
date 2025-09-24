@@ -523,7 +523,7 @@ export default function Home() {
                 <span className="price-value">250</span>
                 <span className="price-unit">만원</span>
                 <span className="price-period">+</span>
-                <span className="price-value">50</span>
+                <span className="price-value">80</span>
                 <span className="price-unit">만원(유료광고비)</span>
               </div>
 
